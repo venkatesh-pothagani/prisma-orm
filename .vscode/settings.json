@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Local Instance",
+            "group": "Local",
+            "database": "prisma",
+            "username": "postgres"
+        }
+    ],
+    "cSpell.words": [
+        "Balaji",
+        "Chandraiah",
+        "Nirosha",
+        "Venkatesh"
+    ]
+}
